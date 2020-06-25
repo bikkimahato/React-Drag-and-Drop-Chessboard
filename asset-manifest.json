@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Drag-and-Drop-Chessboard/static/css/main.34de6062.chunk.css",
+    "main.js": "/React-Drag-and-Drop-Chessboard/static/js/main.b8acfe43.chunk.js",
+    "main.js.map": "/React-Drag-and-Drop-Chessboard/static/js/main.b8acfe43.chunk.js.map",
+    "runtime-main.js": "/React-Drag-and-Drop-Chessboard/static/js/runtime-main.658cee3e.js",
+    "runtime-main.js.map": "/React-Drag-and-Drop-Chessboard/static/js/runtime-main.658cee3e.js.map",
+    "static/js/2.f765865d.chunk.js": "/React-Drag-and-Drop-Chessboard/static/js/2.f765865d.chunk.js",
+    "static/js/2.f765865d.chunk.js.map": "/React-Drag-and-Drop-Chessboard/static/js/2.f765865d.chunk.js.map",
+    "index.html": "/React-Drag-and-Drop-Chessboard/index.html",
+    "precache-manifest.8775b524b2bee584911e199d58e9d329.js": "/React-Drag-and-Drop-Chessboard/precache-manifest.8775b524b2bee584911e199d58e9d329.js",
+    "service-worker.js": "/React-Drag-and-Drop-Chessboard/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/React-Drag-and-Drop-Chessboard/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.658cee3e.js",
+    "static/js/2.f765865d.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.b8acfe43.chunk.js"
+  ]
+}
